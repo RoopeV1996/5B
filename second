@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+    <title>5B</title>
+</head>
+<body>
+    <Header>
+        <h1>Tehtävä 5B</h1>
+    </Header>
+    <nav>
+        <a class="link" href="index.html">Ensimmäinen sivu</a>
+        <a class="link" href="second.html">Toinen sivu</a>
+    </nav>
+    <section id="sec">
+        <h2>Turha heading verificointia varten.</h2>
+        <p>Here is again some text.</p>
+    </section>
+</body>
+</html>

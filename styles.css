@@ -1,0 +1,28 @@
+*{
+    margin: 20px;
+}
+
+h2{
+    font-size: 0px;
+}
+header{
+    background-color: beige;
+    text-align: center;
+}
+nav{
+    background-color: rgb(198, 198, 116);
+    text-align: center;
+}
+.link{
+    background-color: rgb(255, 255, 42);
+    
+}
+#sec{
+    background-color: beige;
+    text-align: center;
+}
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}  
