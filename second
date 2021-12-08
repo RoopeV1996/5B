@@ -15,8 +15,8 @@
         <a class="link" href="second.html">Toinen sivu</a>
     </nav>
     <section id="sec">
-        <h2>Turha heading verificointia varten.</h2>
-        <p>Here is again some text.</p>
+        <h2>Heading verifikaatiota varten.</h2>
+        <p>Tekstii taas</p>
     </section>
 </body>
 </html>
